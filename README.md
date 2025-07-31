@@ -11,4 +11,4 @@ Smooth and clean design
 
 Looks great on desktop (basic mobile responsiveness optional)
 
-🛠 Technologies
+# 🛠 Technologies
